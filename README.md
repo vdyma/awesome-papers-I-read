@@ -8,11 +8,6 @@ Papers I read. Might or might not also contain my thoughts on it or annotations,
 |-|-|-|-
 | ![Attention Is All You Need](https://arxiv.org/abs/1706.03762) | 2017-06 | 2023-12 |
 
-### Selective State Spaces
-| Paper | Publication Date | Read date | Comments
-|-|-|-|-
-| ![Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) | 2023-12 | In-Progress | 
-
 ## Audio
 
 ### Speech Recognition
