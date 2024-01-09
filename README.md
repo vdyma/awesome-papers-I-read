@@ -6,7 +6,13 @@ Papers I read. Might or might not also contain my thoughts on it or annotations,
 ### Transformers
 | Paper | Publication Date | Read date | Comments
 |-|-|-|-
-| ![Attention Is All You Need](https://arxiv.org/abs/1706.03762) | 2017-06 | 2023-12 |
+| ![Attention Is All You Need](https://arxiv.org/abs/1706.03762) | 2017-06 | 2023-12 | AKA Transformers
+
+### Vision
+| Paper | Publication Date | Read date | Comments
+|-|-|-|-
+| ![An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | 2020-10 | 2024-01 | AKA Vision Transformers (ViT)
+
 
 ### Multimodal
 | Paper | Publication Date | Read date | Comments
@@ -23,4 +29,4 @@ Papers I read. Might or might not also contain my thoughts on it or annotations,
 |-|-|-|-
 | ![wav2vec: Unsupervised Pre-training for Speech Recognition](https://arxiv.org/abs/1904.05862) | 2019-04 | 2023-12 | 
 | ![wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477) | 2020-06 | 2024-01 | 
-| ![Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356) | 2022-12 | 2024-01 | 
+| ![Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356) | 2022-12 | 2024-01 | AKA Whisper
