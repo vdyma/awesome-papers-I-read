@@ -1,6 +1,8 @@
 # Awesome papers I read 🤩
 Papers I read. Might or might not also contain my thoughts on it or annotations, or whatever.
 
+So far I've read 9 papers!
+
 ## Basics
 
 ### Transformers
