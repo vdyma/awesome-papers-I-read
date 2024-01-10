@@ -15,6 +15,11 @@ So far I've read 9 papers!
 |-|-|-|-
 | ![An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | 2020-10 | 2024-01 | AKA Vision Transformers (ViT)
 
+### Language
+| Paper | Publication Date | Read date | Comments
+|-|-|-|-
+| ![BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | 2018-10 | 2024-01 | Transformer encoder
+
 
 ### Multimodal
 | Paper | Publication Date | Read date | Comments
