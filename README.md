@@ -1,7 +1,7 @@
 # Awesome papers I read 🤩
 Papers I read. Might or might not also contain my thoughts on it or annotations, or whatever.
 
-So far I've read 9 papers!
+So far I've read 11 papers!
 
 ## Basics
 
@@ -19,6 +19,7 @@ So far I've read 9 papers!
 | Paper | Publication Date | Read date | Comments
 |-|-|-|-
 | ![BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | 2018-10 | 2024-01 | Transformer encoder
+| ![RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) | 2019-07 | 2024-01 | Improvements over BERT
 
 
 ### Multimodal
