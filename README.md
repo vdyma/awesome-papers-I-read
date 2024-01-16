@@ -1,7 +1,7 @@
 # Awesome papers I read 🤩
 Papers I read. Might or might not also contain my thoughts on it or annotations, or whatever.
 
-So far I've read 11 papers!
+So far I've read 12 papers!
 
 ## Basics
 
@@ -14,6 +14,7 @@ So far I've read 11 papers!
 | Paper | Publication Date | Read date | Comments
 |-|-|-|-
 | ![An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | 2020-10 | 2024-01 | AKA Vision Transformers (ViT)
+| ![Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030) | 2021-03 | 2024-01 |
 
 ### Language
 | Paper | Publication Date | Read date | Comments
