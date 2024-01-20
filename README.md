@@ -26,10 +26,10 @@ So far I've read 12 papers!
 ### Multimodal
 | Paper | Publication Date | Read date | Comments
 |-|-|-|-
-| ![Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) | 2021-03 | 2023 | Language-Image
+| ![Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) | 2021-03 | 2024-01 | Language-Image AKA CLIP
 | ![BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086) | 2022-01 | 2023 | Language-Image
 | ![BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) | 2023-01 | 2023 | Language-Image
-| ![Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation](https://arxiv.org/abs/2211.06687) | 2022-11 | 2023 | Language-Audio
+| ![Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343) | 2023-03 | 2024-01 | Language-Image AKA SigLIP
 
 ## Audio
 
