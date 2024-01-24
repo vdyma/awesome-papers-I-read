@@ -1,7 +1,7 @@
 # Awesome papers I read 🤩
 Papers I read. Might or might not also contain my thoughts on it or annotations, or whatever.
 
-So far I've read 12 papers!
+So far I've read 13 papers!
 
 ## Basics
 
@@ -39,3 +39,8 @@ So far I've read 12 papers!
 | [wav2vec: Unsupervised Pre-training for Speech Recognition](https://arxiv.org/abs/1904.05862) | 2019-04 | 2023-12 | 
 | [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477) | 2020-06 | 2024-01 | 
 | [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356) | 2022-12 | 2024-01 | AKA Whisper
+
+## Parameter Efficient Training/Fine-tuning
+| Paper | Publication Date | Read date | Comments
+|-|-|-|-
+| [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) | 2021-06 | 2024-01 |
